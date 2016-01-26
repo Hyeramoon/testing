@@ -1,4 +1,4 @@
 add one change
 before adding 2nd line
-editor 2 making changes
+
 Editor2 add 2nd change over editor1
